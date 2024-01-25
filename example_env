@@ -1,0 +1,1 @@
+URL_DATABASE=postgresql://user:password@localhost/dbname
