@@ -1,3 +1,4 @@
+![image](https://github.com/jthom2/quiz-api/assets/134821369/199c0cfa-de70-43a0-86c2-148440b8d77e)
 # Quiz Management API
 
 ## Description
